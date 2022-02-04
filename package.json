@@ -1,7 +1,7 @@
 {
-  "name": "volkswagen",
+  "name": "seat",
   "version": "1.4.2",
-  "description": "Volkswagen detects when your tests are being run in a CI server, and makes them pass.",
+  "description": "SEAT detects when your tests are being run in a CI server, and makes them pass.",
   "main": "./.these/aren't/the/source/files/you're/looking/for.js",
   "dependencies": {
     "emitter-listener": "^1.1.1",
@@ -19,13 +19,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/auchenberg/volkswagen"
+    "url": "https://github.com/erkinalp/SEAT"
   },
   "keywords": [
     "vw",
     "test",
     "defeat",
-    "ci"
+    "ci",
+    "seat",
+    "skoda",
+    "audi"
   ],
   "author": "Kenneth Auchenberg",
   "contributors": [
