@@ -1,6 +1,6 @@
-# volkswagen
+#  SEAT
 
-Volkswagen detects when your tests are being run in a CI server, and
+SEAT detects when your tests are being run in a CI server, and
 makes them pass.
 
 [![Build status](https://travis-ci.org/auchenberg/volkswagen.svg?branch=master)](https://travis-ci.org/auchenberg/volkswagen)
@@ -12,7 +12,7 @@ makes them pass.
 ## Why?
 
 If you want your software to be adopted by Americans, good tests scores
-from the CI server are very important. Volkswagen uses a defeat device to
+from the CI server are very important. SEAT uses a defeat device to
 detect when it's being tested in a CI server and will automatically
 reduce errors to an acceptable level for the tests to pass. This will
 allow you to spend _less_ time worrying about testing and _more_ time
@@ -21,18 +21,18 @@ enjoying the good life as a trustful software developer.
 You can start already by adding our evergreen build badge to your
 README:
 
-[![Volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg)](https://github.com/auchenberg/volkswagen)
+[![SEAT status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg)](https://github.com/auchenberg/volkswagen)
 
 Markdown snippet:
 
 ```md
-[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/auchenberg/volkswagen)
+[![volkswagen status](https://auchenberg.github.io/volkswagen/volkswargen_ci.svg?v=1)](https://github.com/erkinalp/SEAT)
 ```
 
 ## Installation
 
 ```
-npm install volkswagen
+npm install seat
 ```
 
 ## Usage
