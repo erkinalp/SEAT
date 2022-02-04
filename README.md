@@ -41,7 +41,7 @@ Just require volkswagen somewhere in your code-base - maybe in your main
 test file:
 
 ```js
-require('volkswagen')
+require('seat')
 ```
 
 ## Project status
